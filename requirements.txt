@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-openai
+openai
+ebooklib
+python-dotenv

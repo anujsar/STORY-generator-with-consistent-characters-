@@ -1,0 +1,9 @@
+# Security
+.env
+
+# Virtual Environment
+venv/
+
+# Python Cache & Outputs
+__pycache__/
+outputs/
